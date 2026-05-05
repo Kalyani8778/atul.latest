@@ -1,0 +1,1 @@
+console.log('child ok'); process.exit(0)
